@@ -1,0 +1,159 @@
+{
+  "company": {
+    "name": "Deepflows",
+    "logo": "/assets/images/deepflows.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Your fleet, Supercharged.",
+    "subtitle": "Deepflows",
+    "description": "Artificial Intelligence for maximising fleet usage and minimizing the carbon footprint.",
+    "img": "/assets/images/trucks.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:mm@deepflows.co"
+    }
+  },
+  "product": {
+    "title1": "Change the way your fleet moves.",
+    "title": "Fleet Orchestration, Evolved.",
+    "items": [
+      {
+        "title": "Optimal decision making",
+        "description": "Deep Reinforcement Learning models trained on your data work to provide the most optimal decisions for you.",
+        "img": "/assets/images/product3.jpg"
+      },
+      {
+        "title": "Real time adaptiveness",
+        "description": "Direct your fleet based on the constraints faced by you right now. Not yesterday, not an hour ago.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Plug in your constraints",
+        "description": "Every business faces unique constraints. Existing solutions fall short of providing you the ability to capture them. We're changing that.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "About us",
+    "subtitle": "We are defined by our expertise and technology",
+    "description": "We're on a mission to remove inefficiencies in how products are connected to people. We envision a world where logistics providers are able to use their fleets to the maximum potential. Our advanced A.I. solution based on Deep Reinforcement Learning understands the specific constraints faced by you and provides a flexible system to model the variables that are hard to capture.",
+    "items": [
+      {
+        "name": "Scale Sustainably",
+        "description": "Focus on growing your business demand. We orchestrate your fleet to make sure it's operating at maximum capacity.",
+        "icon": "/assets/images/green-truck.svg"
+      },
+      {
+        "name": "Save time",
+        "description": "Traffic jams. Bad weather. New Pickup incoming. No worries. No need for human intervention to adapt.",
+        "icon": "/assets/images/timer.svg"
+      },
+      {
+        "name": "Save Money",
+        "description": "Reduce half-empty miles, stack orders and don't miss an opportunity to mutualise routes.",
+        "icon": "/assets/images/pound.svg"
+      },
+      {
+        "name": "Customer Trust",
+        "description": "Meet expectations. Every single time.",
+        "icon": "/assets/images/people-tag.svg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
